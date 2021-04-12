@@ -1,6 +1,5 @@
-# dicoding_distro_disebud
-SUBMISSION ANDROID PEMULA DICODING
 
+SUBMISSION ANDROID PEMULA DICODING
 
 # Distro Disebud Submission DICODING
 
